@@ -46,8 +46,8 @@
     "framework-arduinopico": {
       "type": "framework",
       "optional": true,
-      "owner": "maxgerhardt",
-      "version": "~1.10902.0"
+      "owner": "mumpf",
+      "version": "^1.11200.0"
     },
     "tool-rp2040tools": {
       "type": "uploader",
@@ -64,7 +64,7 @@
       "type": "uploader",
       "optional": true,
       "owner": "platformio",
-      "version": "~1.72000.0"
+      "version": "^1.75000.0"
     },
     "tool-mklittlefs": {
       "type": "uploader",
